@@ -26,7 +26,7 @@
 <configVersion>2</configVersion>
 <userRemoteConfigs>
 <hudson.plugins.git.UserRemoteConfig>
-<url>https://github.com/d-devop/learning-jenkins.git</url>
+<url>https://github.com/d-devop/{{COMPONENT}}}.git</url>
 </hudson.plugins.git.UserRemoteConfig>
 </userRemoteConfigs>
 <branches>
