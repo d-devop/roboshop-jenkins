@@ -26,3 +26,5 @@
     COMPONENT: "{{item}}"
   loop:
     - roboshop-infra
+    - roboshop-ansible
+
